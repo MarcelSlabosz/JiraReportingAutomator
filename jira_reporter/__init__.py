@@ -1,0 +1,2 @@
+class JiraReporterException(Exception):
+    pass
